@@ -36,7 +36,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://ionic.io/ionicons/v4) - For icons
+- Ionicons (https://ionic.io/ionicons/v4)
 
 ### What I learned
 
