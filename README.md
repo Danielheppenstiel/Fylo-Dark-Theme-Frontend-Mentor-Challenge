@@ -25,7 +25,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Danielheppenstiel/Fylo-Dark-Theme-Frontend-Mentor-Challenge)
 - Live Site URL: (https://danielheppenstiel.github.io/Fylo-Dark-Theme-Frontend-Mentor-Challenge/)
 
 ## My process
